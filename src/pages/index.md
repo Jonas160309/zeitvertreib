@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Zeitvertreib
-image: /img/img_4824.jpg
+image: /img/img_4863.jpg
 heading: Was genau ist ein Ferienabenteuerspielplatz?
 subheading: Ferienbetreuung & Freizeitgestaltung
 mainpitch:
