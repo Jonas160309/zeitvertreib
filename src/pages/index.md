@@ -1,16 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee wiHAns
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Zeitvertreib
+image: /img/img_4863.jpg
+heading: Was genau ist ein Ferienabenteuerspielplatz?
+subheading: Ferienbetreuung & Freizeitgestaltung
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: 'Unsere Idee: Der Ferienabenteuerspielplatz'
+  description: >-
+    Der gemeinnützige Verein Zeitvertreib betreibt  eine pädagogisch wertvolle
+    Form der Kinderbetreuung für Kinder von 6 bis 14 Jahren, die für die Eltern
+    kostengünstig ist: einen sogenannten Ferienabenteuerspielplatz.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
