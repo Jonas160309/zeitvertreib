@@ -1,19 +1,77 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: Über den Verein Zeitvertreib
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### 
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Der Verein „Zeitvertreib“ wurde von der Pädagogin Maria Greußing, der Ehrenamtkoordinatorin Sandra Greber und der Qualitätsmanagerin Justine Bartek am 18. 12. 2017 gegründet, um dem anfangs genannten Problem entgegen zu wirken. 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### 
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+> Maria Greußing
+>
+> •	studierte Pädagogin, Jugendarbeiterin
+>
+> •	Mutter von zwei Söhnen (6 und 8 Jahre)
+>
+> •	40 Jahre alt
+>
+> „Bevor mein erster Sohn geboren ist, war ich Leiterin der Offenen Jugendarbeit Schaan. In dieser Zeit habe ich den Abenteuerspielplatz ‚Dräggspatz‘ kennen gelernt. Meine damalige Arbeitskollegin hat ihn aufgebaut. Das Konzept hat mich nachhaltig beeindruckt, sodass ich in Vorarlberg einen Ferienabenteuerspielplatz errichten will. Ich bin überzeugt: Ein Ferienabenteuerspielplatz ist für Kinder, Eltern und Arbeitgeber*innen eine große Bereicherung. In Vorarlberg werden ganz dringend mehr Möglichkeiten der Kinderbetreuung während der Ferien benötig.“
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### 
+
+> Sandra Greber
+>
+> •	Ausbildung und Arbeit im Sozialbereich (Verwaltung und Organisation, Ehrenamt-Koordinatorin Pflegeheime der Stadt Dornbirn)
+>
+> •	Mutter von zwei Töchtern (29 und 9 Jahre), zweifache Oma
+>
+> •	Alleinerzieherin
+>
+> •	49 Jahre alt
+>
+> „Ferienbetreuung war in Vorarlberg immer schon ein Problem für berufstätige Frauen. Ich kenne Unternehmen, die inzwischen ungern Mütter junger Kinder einstellen – wegen der fehlenden Ferienbetreuung! Es gibt Arbeitnehmerinnen, die kündigen, da sie die Ferienbetreuung
+>
+> a) nicht finanzieren können
+>
+> b) das Angebot schlecht ist bzw. mit Abschluss der Volksschule wenig kindergerechte Betreuung mehr geboten wird.
+>
+> Auch für mich ist es immer wieder eine große, psychische Belastung, die 17 Wochen Ferien mit 6 Wochen Urlaub zu stemmen. Ich will den Bedarf aufzeigen und etwas gegen dieses Manko unternehmen.“
+
+### 
+
+> Justine Bartek
+>
+> •	studierte Psychologische Begleiterin und Ernährungswissenschaftlerin
+>
+> •	halbtags im Qualitätsmanagement bei Mercedes Schneider tätig
+>
+> •	Mutter eines Sohnes und einer Tochter (17 und 9 Jahre alt)
+>
+> •	Witwe, Alleinerzieherin
+>
+> „Ich bin eine berufstätige, alleinerziehende Mutter und dadurch auf eine verlässliche, hochwertige sowie leistbare Kinderbetreuung angewiesen. Eine besonders kritische Zeit sind die langen Sommerferien in Österreich. Als alleinstehende, arbeitende Mutter ist es eine Kunst, diese Monate zu überbrücken.
+>
+> Ich setze mich für eine qualitativ hochwertige Ferienbetreuung ein, weil ich einerseits selbst akut betroffen bin und andererseits aufzeigen möchte, dass der Bedarf tatsächlich vorhanden ist. Wer sich die Zahl der Anmeldungen für private Ferienbetreuungseinrichtungen ansieht, erkennt sofort, dass viele Eltern eine Ferienbetreuung brauchen.
+
+
+
+Ziel der qualitativ hochwertigen Ferienbetreuung des Vereins
+
+
+
+•	Eltern können mit dem gutem Gewissen arbeiten gehen, dass ihre Kinder bestens versorgt sind
+
+•	Kinder sollen in den Ferien Spaß haben, die Schule vergessen und mit anderen Kindern genussvoll, entspannt und spannend ihre Zeit vertreiben 
+
+•	Gruppengefühl und die Selbständigkeit der Kinder werden gestärkt
+
+•	Grenzen der Kinder werden erweitert 
+
+•	Kreativität von den Kindern wird geweckt
+
+•	das Immunsystem wird gestärkt, weil der Abenteuerspielplatz bei jedem Wetter offen ist
+
+
+
+###
