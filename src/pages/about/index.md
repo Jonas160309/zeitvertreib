@@ -4,12 +4,6 @@ title: Über den Verein Zeitvertreib
 ---
 Der Verein „Zeitvertreib“ wurde von der Pädagogin Maria Greußing, der Ehrenamtkoordinatorin Sandra Greber und der Qualitätsmanagerin Justine Bartek am 18. 12. 2017 gegründet, um dem anfangs genannten Problem entgegen zu wirken.
 
-```
-ffffff 
-```
-
-
-
 Maria Greußing
 
 •	studierte Pädagogin, Jugendarbeiterin
@@ -19,8 +13,6 @@ Maria Greußing
 •	40 Jahre alt
 
 „Bevor mein erster Sohn geboren ist, war ich Leiterin der Offenen Jugendarbeit Schaan. In dieser Zeit habe ich den Abenteuerspielplatz ‚Dräggspatz‘ kennen gelernt. Meine damalige Arbeitskollegin hat ihn aufgebaut. Das Konzept hat mich nachhaltig beeindruckt, sodass ich in Vorarlberg einen Ferienabenteuerspielplatz errichten will. Ich bin überzeugt: Ein Ferienabenteuerspielplatz ist für Kinder, Eltern und Arbeitgeber*innen eine große Bereicherung. In Vorarlberg werden ganz dringend mehr Möglichkeiten der Kinderbetreuung während der Ferien benötig.“ 
-
-
 
 Sandra Greber
 
@@ -39,8 +31,6 @@ a) nicht finanzieren können
 b) das Angebot schlecht ist bzw. mit Abschluss der Volksschule wenig kindergerechte Betreuung mehr geboten wird. 
 
 Auch für mich ist es immer wieder eine große, psychische Belastung, die 17 Wochen Ferien mit 6 Wochen Urlaub zu stemmen. Ich will den Bedarf aufzeigen und etwas gegen dieses Manko unternehmen.“
-
-
 
 Justine Bartek
 
