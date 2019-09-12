@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
-title: Outdoortage im Hermann-Gmeiner-Park
+title: Outdoortage im Hermann Gmeiner Park
 date: 2019-09-09T14:35:14.402Z
-description: Discription
+description: 'Description '
 featuredimage: /img/img_4920.jpg
+tags:
+  - ''
 ---
-![Alt Text](/img/img_4920.jpg "Title")
-
 Im August 2018 hat unser Verein das Konzept des Ferienabenteuerspielplatzes zum ersten Mal in einem Projekt umgesetzt. Mit Unterstützung von der Stadt Dornbirn, der Sparkasse Dornbirn, einer privaten Spenderin, einem Holzlieferanten und freiwilligen Helfer*innen konnten wir unser Vorhaben umsetzen. Im Hermann Gmeiner Park bauten wir zusammen mit Kindern von 6 bis 12 Jahren Hütten, bastelten Windräder und Hängematten, malten und grillten Stockbrot, Würstle und Äpfel auf dem Feuer. Vom 20. bis 24. und vom 27. bis 31. August, von 7.30 bis 13.00 Uhr, um 6€ pro Tag und Kind, konnten Eltern ihre Kinder zu uns bringen.
 
 Obwohl wir fast keine Werbung gemacht haben, nahmen insgesamt 39 Kinder an den Outdoortagen teil. Wir Betreuerinnen waren erstaunt, wie sich die Kinder in kurzer Zeit in Gruppen zusammenfanden und ihre Hütten gebaut haben. Sie werkelten so eifrig, dass nach zwei Tagen das Holz knapp wurde. Wir halfen, die Bauten zu stützen, damit die Sicherheit gewährleistet war. Es entstanden zweistöckige Hütten! 
