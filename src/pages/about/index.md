@@ -4,9 +4,11 @@ title: Über den Verein Zeitvertreib
 ---
 Der Verein „Zeitvertreib“ wurde von der Pädagogin Maria Greußing, der Ehrenamtkoordinatorin Sandra Greber und der Qualitätsmanagerin Justine Bartek am 18. 12. 2017 gegründet, um dem anfangs genannten Problem entgegen zu wirken.
 
-> 
+```
 
-Maria Greußing
+```
+
+Maria Greußing
 
 * studierte Pädagogin, Jugendarbeiterin
 * Mutter von zwei Söhnen (6 und 8 Jahre)
