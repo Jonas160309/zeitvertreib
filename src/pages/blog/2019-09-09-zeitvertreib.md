@@ -5,7 +5,7 @@ date: 2019-09-09T14:35:14.402Z
 description: Discription
 featuredimage: /img/img_4920.jpg
 ---
-![](/img/img_4920.jpg)
+![bbb](/img/img_4920.jpg "bbb")
 
 Im August 2018 hat unser Verein das Konzept des Ferienabenteuerspielplatzes zum ersten Mal in einem Projekt umgesetzt. Mit Unterstützung von der Stadt Dornbirn, der Sparkasse Dornbirn, einer privaten Spenderin, einem Holzlieferanten und freiwilligen Helfer*innen konnten wir unser Vorhaben umsetzen. Im Hermann Gmeiner Park bauten wir zusammen mit Kindern von 6 bis 12 Jahren Hütten, bastelten Windräder und Hängematten, malten und grillten Stockbrot, Würstle und Äpfel auf dem Feuer. Vom 20. bis 24. und vom 27. bis 31. August, von 7.30 bis 13.00 Uhr, um 6€ pro Tag und Kind, konnten Eltern ihre Kinder zu uns bringen.
 
