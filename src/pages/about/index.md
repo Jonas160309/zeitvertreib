@@ -4,15 +4,15 @@ title: Über den Verein Zeitvertreib
 ---
 Der Verein „Zeitvertreib“ wurde von der Pädagogin Maria Greußing, der Ehrenamtkoordinatorin Sandra Greber und der Qualitätsmanagerin Justine Bartek am 18. 12. 2017 gegründet, um dem anfangs genannten Problem entgegen zu wirken.
 
-Maria Greußing
+**Maria Greußing**
 
 * studierte Pädagogin, Jugendarbeiterin
 * Mutter von zwei Söhnen (6 und 8 Jahre)
 * 40 Jahre alt
 
-„Bevor mein erster Sohn geboren ist, war ich Leiterin der Offenen Jugendarbeit Schaan. In dieser Zeit habe ich den Abenteuerspielplatz ‚Dräggspatz‘ kennen gelernt. Meine damalige Arbeitskollegin hat ihn aufgebaut. Das Konzept hat mich nachhaltig beeindruckt, sodass ich in Vorarlberg einen Ferienabenteuerspielplatz errichten will. Ich bin überzeugt: Ein Ferienabenteuerspielplatz ist für Kinder, Eltern und Arbeitgeber*innen eine große Bereicherung. In Vorarlberg werden ganz dringend mehr Möglichkeiten der Kinderbetreuung während der Ferien benötig.“ 
+„Bevor mein erster Sohn geboren ist, war ich Leiterin der Offenen Jugendarbeit Schaan. In dieser Zeit habe ich den Abenteuerspielplatz ‚Dräggspatz‘ kennen gelernt. Meine damalige Arbeitskollegin hat ihn aufgebaut. Das Konzept hat mich nachhaltig beeindruckt, sodass ich in Vorarlberg einen Ferienabenteuerspielplatz errichten will. Ich bin überzeugt: Ein Ferienabenteuerspielplatz ist für Kinder, Eltern und Arbeitgeber*innen eine große Bereicherung. In Vorarlberg werden ganz dringend mehr Möglichkeiten der Kinderbetreuung während der Ferien benötig.“ 
 
-Sandra Greber
+**Sandra Greber**
 
 * Ausbildung und Arbeit im Sozialbereich (Verwaltung und Organisation, Ehrenamt-Koordinatorin Pflegeheime der Stadt Dornbirn)
 * Mutter von zwei Töchtern (29 und 9 Jahre), zweifache Oma
@@ -26,7 +26,7 @@ Sandra Greber
 
 Auch für mich ist es immer wieder eine große, psychische Belastung, die 17 Wochen Ferien mit 6 Wochen Urlaub zu stemmen. Ich will den Bedarf aufzeigen und etwas gegen dieses Manko unternehmen.“
 
-Justine Bartek
+**Justine Bartek**
 
 * studierte Psychologische Begleiterin und Ernährungswissenschaftlerin 
 * halbtags im Qualitätsmanagement bei Mercedes Schneider tätig
