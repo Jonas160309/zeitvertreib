@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Outdoortage im Hermann-Gmeiner-Park
 date: 2019-09-09T14:35:14.402Z
-description: Description
+description: '''Description'''
 featuredimage: /img/img_4920.jpg
 tags:
   - ''
