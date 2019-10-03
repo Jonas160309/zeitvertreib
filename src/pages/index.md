@@ -11,10 +11,20 @@ mainpitch:
     Form der Kinderbetreuung für Kinder von 6 bis 14 Jahren, die für die Eltern
     kostengünstig ist: einen sogenannten Ferienabenteuerspielplatz.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Fast überall in Europa bestehen Abenteuerspielplätze, die auch Bauspielplätze
+  oder Robinsonspielplätze genannt werden. Die Erfahrungen damit sind sehr gut.
+  An diesen Orten gibt es keine Spielgeräte und Spielsachen, sondern Material
+  und Werkzeug. Damit können die Kinder selbst etwas erschaffen. Sie dürfen
+  Dinge tun, die sie in unserer Stadtgesellschaft nicht ohne weiteres machen
+  können. Zum Beispiel Hütten bauen, Löcher graben und mit Wasser füllen, auf
+  dem Feuer kochen und vieles mehr. Kinder wollen das Erwachsensein üben, und
+  dazu brauchen sie einen Platz, auf dem sie das spielerisch ausprobieren
+  können. Kinder lernen im Spiel, mit Werkzeug umzugehen, sie können Nägel
+  einschlagen, sägen, Seile binden, aufräumen und als Team etwas aufbauen. Das
+  sind wertvolle Erfahrungen.  Es braucht Plätze, an denen diese Aktivitäten
+  erwünscht und gefördert werden. Denn es ist sehr wichtig für Kinder,
+  wirklichkeitsbezogene Tätigkeiten auszuüben als Vorbereitung für das Leben und
+  die Arbeitswelt.
 intro:
   blurbs:
     - image: /img/img_4863.jpg
@@ -44,7 +54,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Test
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
