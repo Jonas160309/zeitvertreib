@@ -26,7 +26,9 @@ description: >-
   wirklichkeitsbezogene Tätigkeiten auszuüben als Vorbereitung für das Leben und
   die Arbeitswelt.
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/img_4824.jpg
+      text: test
   heading: Test
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
