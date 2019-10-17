@@ -35,6 +35,9 @@ collections:
           - {label: Überschrift, name: heading, widget: string}
           - {label: Beschreibung, name: description, widget: "markdown"}
           - {label: Ziele, name: goals, widget: "markdown"}
+          - {label: Weitere Infos, name: goals, widget: "markdown"}
+          - {label: Sicherheit, name: goals, widget: "markdown"}
+          - {label: Wie geht es weiter, name: goals, widget: "markdown"}
       - file: "src/pages/about/index.md"
         label: "Über uns"
         name: "about"
