@@ -2,7 +2,6 @@
 templateKey: index-page
 title: Zeitvertreib
 image: /img/img_4863.jpg
-heading: Was genau ist ein Ferienabenteuerspielplatz?
 subheading: Ferienbetreuung & Freizeitgestaltung
 mainpitch:
   title: 'Unsere Idee: Der Ferienabenteuerspielplatz'
@@ -10,6 +9,7 @@ mainpitch:
     Der gemeinnützige Verein Zeitvertreib betreibt  eine pädagogisch wertvolle
     Form der Kinderbetreuung für Kinder von 6 bis 14 Jahren, die für die Eltern
     kostengünstig ist: einen sogenannten Ferienabenteuerspielplatz.
+heading: Was genau ist ein Ferienabenteuerspielplatz?
 description: >-
   Fast überall in Europa bestehen Abenteuerspielplätze, die auch Bauspielplätze
   oder Robinsonspielplätze genannt werden. Die Erfahrungen damit sind sehr gut.
@@ -25,31 +25,6 @@ description: >-
   erwünscht und gefördert werden. Denn es ist sehr wichtig für Kinder,
   wirklichkeitsbezogene Tätigkeiten auszuüben als Vorbereitung für das Leben und
   die Arbeitswelt.
-intro:
-  blurbs:
-    - image: /img/img_4824.jpg
-      text: test
-  heading: Test
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/img_4863.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/img_4863.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/img_4863.jpg
+goals: "\r\n\nZiel der qualitativ hochwertigen Ferienbetreuung des Vereins\n\n* \r\rEltern können mit einem guten Gewissen arbeiten gehen, dass ihre Kinder bestens versorgt sind\n* \rKinder sollen in den Ferien Spaß haben, die Schule vergessen und mit anderen Kindern genussvoll, entspannt und spannend ihre Zeit vertreiben \n* \rGruppengefühl und die Selbständigkeit der Kinder werden gestärkt\n* \rGrenzen der Kinder werden erweitert \n* \rKreativität von den Kindern wird geweckt\n* D\ras Immunsystem wird gestärkt, weil der Abenteuerspielplatz bei jedem Wetter offen ist\n\n15 Wochen Schulferien plus Feier- und schulautonome Tage: Vorarlbergs Schulen sind beinahe 17 Wochen geschlossen. Viele arbeitende Eltern wissen nicht, wo und wie ihre Kinder an den vielen schulfreien Tagen versorgt und betreut werden sollen. Es gibt das Angebot der Stadt, den „Ferien Klub“ in der VS Markt zu besuchen. Es ist für einige Kinder nicht akzeptabel, in den Ferien eine Schule zu besuchen. Die Angebote des Dornbirner Familiensommerprogramms sind oft nicht mit den Arbeitszeiten vereinbar und teuer. Dadurch entstehen Druck und Stress für Eltern – und das wirkt sich auch am Arbeitsplatz aus. Deshalb wollen wir mit unserem Verein das Ferienbetreuungsangebot in der Stadt Dornbirn ergänzen und damit die Auswahl erweitern."
 ---
 
