@@ -1,4 +1,4 @@
-backend:
+- {label: Description, name: description, widget: "markdown"}- {label: Description, name: description, widget: "markdown"}- {label: Description, name: description, widget: "markdown"}- {label: Description, name: description, widget: "markdown"}- {label: Description, name: description, widget: "markdown"}backend:
   name: git-gateway
   branch: master
 
@@ -13,11 +13,11 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "text"}
-      - {label: "Image", name: "featuredimage", widget: image}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungs Datum", name: "date", widget: "datetime"}
+      - {label: "Beschreibung", name: "description", widget: "text"}
+      - {label: "Bild", name: "featuredimage", widget: image}
+      - {label: "Hauptteil", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
 
   - name: "pages"
@@ -28,16 +28,17 @@ collections:
         name: "index"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Subheading, name: subheading, widget: string}
-          - {label: Mainpitch, name: mainpitch, widget: object, fields: [{label: Title, name: title, widget: string}, {label: Description, name: description, widget: text}]}
-          - {label: Description, name: description, widget: "markdown"}
+          - {label: Titel, name: title, widget: string}
+          - {label: Bild, name: image, widget: image}
+          - {label: Überschrift, name: subheading, widget: string}
+          - {label: Hauptaussage, name: mainpitch, widget: object, fields: [{label: Title, name: title, widget: string}, {label: Description, name: description, widget: text}]}
+          - {label: Überschrift, name: heading, widget: string}
+          - {label: Beschreibung, name: description, widget: "markdown"}
+          - {label: Ziele, name: description, widget: "markdown"}
       - file: "src/pages/about/index.md"
         label: "Über uns"
         name: "about"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Titel", name: "title", widget: "string"}
+          - {label: "Hauptteil", name: "body", widget: "markdown"}
