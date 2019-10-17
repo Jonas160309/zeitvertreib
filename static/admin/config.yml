@@ -1,5 +1,4 @@
 - backend:
-- {label: Description, name: description, widget: "markdown"}- {label: Description, name: description, widget: "markdown"}- {label: Description, name: description, widget: "markdown"}- {label: Description, name: description, widget: "markdown"}- {label: Description, name: description, widget: "markdown"}backend:
   name: git-gateway
   branch: master
 
