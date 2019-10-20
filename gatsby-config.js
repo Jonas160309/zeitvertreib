@@ -34,15 +34,6 @@ module.exports = {
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
-      resolve: 'gatsby-plugin-manifest',
-      options: {
-        name:'gatsby-starter-default',
-        short_name: 'starter',
-        start_url: '/',
-        icon: 'scr/img/Zeitvertreib_Logo.png',
-      },
-    },
-    {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
