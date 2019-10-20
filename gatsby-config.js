@@ -36,6 +36,7 @@ module.exports = {
     {
       resolve: 'gatsby-transformer-remark',
       options: {
+        icon: 'scr/img/Zeitvertreib_Logo.png',
         plugins: [
           {
             resolve: 'gatsby-remark-relative-images',
