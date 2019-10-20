@@ -31,12 +31,29 @@ module.exports = {
         name: 'images',
       },
     },
+    {
+     resolve: 'gatsby-plugin-favicon',
+        options: {
+            logo: './scr/img/Zeitvertreib_Logo.png',
+            injectHTML: true,
+            icons: {
+                android: true,
+                appleIcon: true,
+                appleStartup: true,
+                coast: false,
+                favicons: true,
+                firefox: true,
+                twitter: false,
+                yandex: false,
+                windows: false
+            },
+        },
+    },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
       resolve: 'gatsby-transformer-remark',
       options: {
-        icon: 'scr/img/Zeitvertreib_Logo.png',
         plugins: [
           {
             resolve: 'gatsby-remark-relative-images',
