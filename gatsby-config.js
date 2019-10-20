@@ -31,20 +31,17 @@ module.exports = {
         name: 'images',
       },
     },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `Kaldi`,
-        short_name: `Kaldi`,
-        start_url: `/`,
-        background_color: `#FFFFFF`,
-        theme_color: `#FFFFFF`,
-        icon: `src/img/Zeitvertreib_Logo.png`, // Need to create this asset
-        include_favicon: true,
-      },
-    },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        name:'gatsby-starter-default',
+        short_name: 'starter',
+        start_url: '/',
+        icon: 'scr/img/Zeitvertreib_Logo.png',
+      },
+    },
     {
       resolve: 'gatsby-transformer-remark',
       options: {
