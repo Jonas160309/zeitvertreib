@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import logo from '../img/Zeitvertreib_Logo.png'
-import '../styles/main.css'
 
 const Navbar = class extends React.Component {
   constructor(props) {
