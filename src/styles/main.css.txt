@@ -1,7 +1,0 @@
-.navbar-item img {
-    max-height: 53.1px;
-}
-
-iframe {
-    height: 790px;
-}
